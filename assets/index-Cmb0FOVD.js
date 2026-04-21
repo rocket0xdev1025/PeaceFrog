@@ -24652,7 +24652,7 @@ const Gj = {
             children: p.jsx("span", {
               className:
                 "font-chunky text-lg md:text-xl tracking-[0.3em] text-primary uppercase",
-              children: "$PEACE on Solana",
+              children: "$PEACE on Ethereum",
             }),
           }),
         }),
@@ -24738,7 +24738,7 @@ const Gj = {
           transition: { delay: 1.1 },
           children: [
             p.jsx("a", {
-              href: "https://x.com/peacefrogorigin",
+              href: "https://x.com/PeaceFrog_x",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -24746,15 +24746,15 @@ const Gj = {
               children: "𝕏 Twitter",
             }),
             p.jsx("a", {
-              href: "https://t.me/PeaceFrogCommunity",
+              href: "https://dexscreener.com/ethereum/0xcomingsoon",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
                 "bg-secondary text-secondary-foreground font-chunky px-8 py-3 rounded-full text-lg shadow-retro hover:scale-110 hover:rotate-3 transition-all duration-300 rotate-[1deg]",
-              children: "Telegram",
+              children: "Chart",
             }),
             p.jsx("a", {
-              href: "#buy",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
               className:
                 "bg-accent text-accent-foreground font-chunky px-10 py-4 rounded-full text-xl shadow-retro hover:scale-110 transition-all duration-300 animate-bounce-gentle border-4 border-rainbow-yellow",
               children: "Buy $PEACE 🐸",
@@ -25383,7 +25383,7 @@ const Gj = {
     const e = [
       {
         label: "Chain",
-        value: "Solana",
+        value: "Ethereum",
         icon: "🌐",
         tilt: "scrapbook-tilt-3",
         accent: "border-rainbow-blue/50",
@@ -25509,12 +25509,12 @@ const Gj = {
                   p.jsx("p", {
                     className:
                       "font-display text-lg md:text-2xl text-rainbow-animate text-center break-all leading-relaxed",
-                    children: "HcbsqQC3sn2LMwbjVafiEd8nJ2ATZHH2wXH4xqV2pump",
+                    children: "0xcomingsoon",
                   }),
                   p.jsx("button", {
                     onClick: () =>
                       navigator.clipboard.writeText(
-                        "HcbsqQC3sn2LMwbjVafiEd8nJ2ATZHH2wXH4xqV2pump"
+                        "0xcomingsoon"
                       ),
                     className:
                       "mt-4 font-chunky text-sm bg-secondary/20 hover:bg-secondary/40 px-6 py-2 rounded-full transition-all hover:scale-105 border border-secondary/30",
@@ -25608,7 +25608,7 @@ const Gj = {
               className: "flex justify-center gap-6 mb-6",
               children: [
                 p.jsx("a", {
-                  href: "https://x.com/peacefrogorigin",
+                  href: "https://x.com/PeaceFrog_x",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -25616,7 +25616,7 @@ const Gj = {
                   children: "𝕏 Twitter",
                 }),
                 p.jsx("a", {
-                  href: "https://t.me/PeaceFrogCommunity",
+                  href: "https://t.me/PeaceFrog_entry",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
