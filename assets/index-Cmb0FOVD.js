@@ -24738,7 +24738,7 @@ const Gj = {
           transition: { delay: 1.1 },
           children: [
             p.jsx("a", {
-              href: "https://x.com/PeaceFrog_x",
+              href: "https://x.com/PeaceFrog_matt",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -25608,7 +25608,7 @@ const Gj = {
               className: "flex justify-center gap-6 mb-6",
               children: [
                 p.jsx("a", {
-                  href: "https://x.com/PeaceFrog_x",
+                  href: "https://x.com/PeaceFrog_matt",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -25616,7 +25616,7 @@ const Gj = {
                   children: "𝕏 Twitter",
                 }),
                 p.jsx("a", {
-                  href: "https://t.me/PeaceFrog_entry",
+                  href: "https://t.me/PeaceFrog_matt",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
