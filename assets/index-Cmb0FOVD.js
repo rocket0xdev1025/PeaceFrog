@@ -24738,7 +24738,7 @@ const Gj = {
           transition: { delay: 1.1 },
           children: [
             p.jsx("a", {
-              href: "https://x.com/PeaceFrog_matt",
+              href: "https://x.com/PeaceFrogFurie",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -24746,7 +24746,7 @@ const Gj = {
               children: "𝕏 Twitter",
             }),
             p.jsx("a", {
-              href: "https://dexscreener.com/ethereum/0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
+              href: "https://dexscreener.com/ethereum/0xcomingsoon",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -24754,7 +24754,7 @@ const Gj = {
               children: "Chart",
             }),
             p.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
               className:
                 "bg-accent text-accent-foreground font-chunky px-10 py-4 rounded-full text-xl shadow-retro hover:scale-110 transition-all duration-300 animate-bounce-gentle border-4 border-rainbow-yellow",
               children: "Buy $PEACE 🐸",
@@ -25509,12 +25509,12 @@ const Gj = {
                   p.jsx("p", {
                     className:
                       "font-display text-lg md:text-2xl text-rainbow-animate text-center break-all leading-relaxed",
-                    children: "0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
+                    children: "0xcomingsoon",
                   }),
                   p.jsx("button", {
                     onClick: () =>
                       navigator.clipboard.writeText(
-                        "0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB"
+                        "0xcomingsoon"
                       ),
                     className:
                       "mt-4 font-chunky text-sm bg-secondary/20 hover:bg-secondary/40 px-6 py-2 rounded-full transition-all hover:scale-105 border border-secondary/30",
@@ -25608,7 +25608,7 @@ const Gj = {
               className: "flex justify-center gap-6 mb-6",
               children: [
                 p.jsx("a", {
-                  href: "https://x.com/PeaceFrog_matt",
+                  href: "https://x.com/PeaceFrogFurie",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -25616,7 +25616,7 @@ const Gj = {
                   children: "𝕏 Twitter",
                 }),
                 p.jsx("a", {
-                  href: "https://t.me/PeaceFrog_matt",
+                  href: "https://t.me/PeaceFrogFurie",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
