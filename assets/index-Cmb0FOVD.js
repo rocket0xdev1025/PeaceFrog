@@ -24746,7 +24746,7 @@ const Gj = {
               children: "𝕏 Twitter",
             }),
             p.jsx("a", {
-              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+              href: "https://dexscreener.com/ethereum/0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -24754,7 +24754,7 @@ const Gj = {
               children: "Chart",
             }),
             p.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
               className:
                 "bg-accent text-accent-foreground font-chunky px-10 py-4 rounded-full text-xl shadow-retro hover:scale-110 transition-all duration-300 animate-bounce-gentle border-4 border-rainbow-yellow",
               children: "Buy $PEACE 🐸",
@@ -25509,12 +25509,12 @@ const Gj = {
                   p.jsx("p", {
                     className:
                       "font-display text-lg md:text-2xl text-rainbow-animate text-center break-all leading-relaxed",
-                    children: "0xcomingsoon",
+                    children: "0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB",
                   }),
                   p.jsx("button", {
                     onClick: () =>
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x9E59c6B9dBAA00685D934a614a14fc8FF0A002DB"
                       ),
                     className:
                       "mt-4 font-chunky text-sm bg-secondary/20 hover:bg-secondary/40 px-6 py-2 rounded-full transition-all hover:scale-105 border border-secondary/30",
